@@ -36,11 +36,19 @@ This Power BI project aims to analyze AdventureWorks sales data with the followi
 
 ---
 
-## 🖼 Report Screenshots
+## 📊 Dashboard Previews
 
-> (Make sure you’ve uploaded a screenshot in `/Images/dashboard.png`)
+### 🔹 Overall Dashboard  
+![Dashboard](Images/dashboard.png)
 
-![Dashboard Preview](Images/dashboard.png)
+### 🔹 Regional Performance  
+![Regional Performance](Images/regional-performance.png)
+
+### 🔹 Product Performance  
+![Product Performance](Images/product-performance.png)
+
+### 🔹 Customer Analysis  
+![Customer Analysis](Images/customer-analysis.png)
 
 ---
 
